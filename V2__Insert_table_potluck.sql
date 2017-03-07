@@ -1,0 +1,1 @@
+INSERT INTO potluck (name, food, confirmed, signup_date) VALUES('Tino', 'Empanadas', 'Y', '2012-04-18');
